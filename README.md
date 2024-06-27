@@ -5,7 +5,7 @@ Vous trouverez ici des ressources et des outils utiles pour vous préparer avant
 ***Veuillez noter que ce référentiel est destiné à être mis à jour fréquemment, en fonction de ce que nous avons déjà et de ce dont nous aurions besoin à l'avenir.
 N'hésitez pas à me contacter sur Discord si vous souhaitez contribuer à l'amélioration du référentiel, avec les ressources et/ou outils, qui, selon vous, seraient utiles pour nous tous.***
 
-*[English Repository](#)*
+*[English Branch](https://github.com/Mizvchi/42Perpignan_09-2024/tree/EN)*
 
 ---
 
