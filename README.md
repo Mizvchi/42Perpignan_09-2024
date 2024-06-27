@@ -6,7 +6,7 @@ Here you'll find helpful resources and tools to prepare yourself before entering
 Please feel free to contact me on Discord if you would like to contribute to improving the repository, with resources and/or tools, which you think would be useful for all of us.***
 
 
-*[Dépôt Français](#)*
+*[Dépôt Français](https://github.com/Mizvchi/42Perpignan_09-2024/tree/FR)*
 
 ---
 
